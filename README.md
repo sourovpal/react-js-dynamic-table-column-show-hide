@@ -165,4 +165,4 @@ export default Datatable;
 
 ## Output
 
-![alt text](https://github.com/sourovpal/react-js-dynamic-table-column-show-hide/blob/master/screenshot_1.png?raw=true)
+![alt text](https://raw.githubusercontent.com/sourovpal/react-js-dynamic-table-column-show-hide/main/screenshot_1.png)
